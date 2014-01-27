@@ -29,7 +29,7 @@ public class Nils_krille_java {
             System.out.print("\n");
             if (x <= 0) {
                 System.out.print("fuck this shit\n");
-                System.out.print("fuck this shit\n");
+                System.out.print("ye ye some rum me like ajaj\n");
                 System.exit(0);
             }
         }
