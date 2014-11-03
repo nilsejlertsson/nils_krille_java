@@ -17,6 +17,7 @@ public class Nils_krille_java {
      */
     public static void main(String[] args) {
         double x = 100000;
+        System.out.print("hej");
         while (true) {
             System.out.print(x);
             x--;
